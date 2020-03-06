@@ -7,7 +7,7 @@ function Projects(props) {
     // Render a Thumbnail component
     <div>
       <h1>Projects</h1>
-      <Thumbnail
+      {/* <Thumbnail
   link="/twitter"
   image="http://twitter-image-url.jpg"
   title="Twitter Newsfeed"
@@ -26,7 +26,7 @@ function Projects(props) {
   image="http://photoshop-image-url.jpg"
   title="Photoshop Redesign"
   category="Desktop App"
-/>
+/> */}
     </div>
   )
 }
